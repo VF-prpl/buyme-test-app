@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "/url1",
+    "id": "Text 1",
+    "name": "Text 1"
+  },
+  {
+    "icon": "/url2",
+    "id": "Text 2",
+    "name": "Text 2"
+  },
+  {
+    "icon": "/url3",
+    "id": "Text 3",
+    "name": "Text 3"
+  }
+]
